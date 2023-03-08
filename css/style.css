@@ -6,7 +6,7 @@
     color: white;
     font-family: 'Roboto Serif', serif;
     font-weight: 700;
-    font-size: 22px;
+    font-size: 19px;
     
 }
 .q2{
@@ -20,4 +20,8 @@
 }
 .navbar-nav{
     margin-left: 80px;
+}
+.btn{
+    background-color: #00A3FF;
+    color: white;
 }
