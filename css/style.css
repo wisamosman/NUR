@@ -41,8 +41,11 @@
     margin-left: 15px;
 }
 .q6{
-    border-bottom: 2px solid #ACACAC;
-    background-color: blanchedalmond;
+    border: 1px solid #ACACAC;
+    background-color: #1A1A26;
+    padding-bottom: 120px;
+    margin-top: 29px;
+    padding-top: 40px;
 }
 .q7{
     color: white;
@@ -62,4 +65,14 @@
 .q11{
     color: white;
     margin-top: 25px;
+}
+.q13{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    padding: 20px 200px;
+    background-color: #00A3FF;
+}
+.q12{
+    margin-top: 75px;
 }
