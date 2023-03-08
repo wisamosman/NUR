@@ -1,9 +1,23 @@
 .q1{
     background-image: url(https://rainbowit.net/html/nuron/assets/images/bg/bg-image-24.jpg);
+    font-family: 'Roboto Serif', serif;
 }
 .nav-link{
     color: white;
+    font-family: 'Roboto Serif', serif;
+    font-weight: 700;
+    font-size: 22px;
+    
 }
 .q2{
     width: 160px;
+}
+.navbar{
+    padding-top: 25px;
+    padding-bottom: 15px;
+    border-bottom: 2px solid #ACACAC;
+    font-family: 'Roboto Serif', serif;
+}
+.navbar-nav{
+    margin-left: 80px;
 }
