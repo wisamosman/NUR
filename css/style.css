@@ -76,3 +76,15 @@
 .q12{
     margin-top: 75px;
 }
+.w1{
+    color: white;
+    font-weight: 800;
+    font-size: 60px;
+}
+.card{
+    background-color: #242435;
+}
+.card-title{
+    color: white;
+    font-weight: 600;
+}
