@@ -32,4 +32,18 @@
 }
 .q4{
     width: 500px;
+    padding-top: 10px;
+}
+.q5{
+    color: white;
+    font-weight: 800;
+    font-size: 45px;
+    margin-left: 15px;
+}
+.q6{
+    border-bottom: 2px solid #ACACAC;
+    background-color: blanchedalmond;
+}
+.q7{
+    color: white;
 }
